@@ -1,5 +1,5 @@
 module Fullpage
   module Rails
-    VERSION = "0.0.1"
+    VERSION = '2.8.2'
   end
 end
