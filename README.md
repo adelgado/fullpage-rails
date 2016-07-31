@@ -48,6 +48,6 @@ version identifier will be added and incremented.
 ## Thanks
 
 Thanks to [Derek Prior](https://github.com/derekprior) for his
-[blog post regarding Gem packaging](http://www.prioritized.net/blog/gemify-assets-for-rails/)
+[blog post regarding Gem packaging](http://www.prioritized.net/blog/gemify-assets-for-rails)
 and for packaging [momentjs-rails](https://github.com/derekprior/momentjs-rails).
 I shamelessly copied the whole structure.
